@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: nho7kuup4-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/nho7kuup4-go
